@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 <div><img src="./assets/clouds.gif" align="center" alt="Top banner" width=100%></div>
 
-###  CodeswitchStudio is Indira Endaya.
+
+### **CodeswitchStudio** is Indira Endaya.
+
 
 Hi there 👋 
 
