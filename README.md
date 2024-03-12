@@ -75,10 +75,10 @@ I am interested in digital humanities, data journalism and visualisation, storyt
 
 
   **Various workshop content and methods in repositories courtesy of the following learning resources**:
-- [SuperHi](https://www.superhi.com/)
-- [The Coding Train](https://thecodingtrain.com/) 
-- [The App Brewery](https://appbrewery.com/)
-- [Zero To Mastery](https://zerotomastery.io/resources/)
-- [computational_mama](https://github.com/computational-mama)
-- [Traversy Media](https://www.traversymedia.com/)
-- [Codercoder](https://coder-coder.com/blog/)
+  - [SuperHi](https://www.superhi.com/)
+  - [The Coding Train](https://thecodingtrain.com/) 
+  - [The App Brewery](https://appbrewery.com/)
+  - [Zero To Mastery](https://zerotomastery.io/resources/)
+  - [computational_mama](https://github.com/computational-mama)
+  - [Traversy Media](https://www.traversymedia.com/)
+  - [Codercoder](https://coder-coder.com/blog/)
