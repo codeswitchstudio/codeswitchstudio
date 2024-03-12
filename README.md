@@ -32,7 +32,7 @@ I am happiest when working in that sweet spot where technology, art and storytel
 
 I am interested in digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I am currently trying to find more time (and energy) to study d3 and Svelte.
 
-| [My Repositories](https://github.com/codeswitchstudio?tab=repositories) || [LinkedIn](www.linkedin.com/in/indira-endaya-3a02088) || [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [My Visual Blog](https://codeswitchstudio.com) || [My GitHub Skyline 2024](https://skyline.github.com/codeswitchstudio/2024) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) |
+| [My Repositories](https://github.com/codeswitchstudio?tab=repositories) || [LinkedIn](www.linkedin.com/in/indira-endaya-3a02088) || [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [My Visual Blog](https://codeswitchstudio.com) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) |
 
 
 ### **Jump to:**
