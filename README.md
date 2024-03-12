@@ -75,6 +75,7 @@ I am interested in digital humanities, data journalism and visualisation, storyt
 
 
   **Various workshop content and methods in repositories courtesy of the following learning resources**:
+  - [EdX](https://home.edx.org/)
   - [SuperHi](https://www.superhi.com/)
   - [The Coding Train](https://thecodingtrain.com/) 
   - [The App Brewery](https://appbrewery.com/)
