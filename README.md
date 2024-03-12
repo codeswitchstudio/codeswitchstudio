@@ -26,11 +26,9 @@ Hi there 👋
 
 I am a multi-disciplinary digital creative with a background in media, communication and culture.
 
-I enjoy bringing research to life visually and am experienced in crafting and enhancing content for various audiences and platforms; turning complex information into engaging and accessible stories and explaining technical issues to non-technical people.
+I enjoy bringing research to life visually and am experienced in crafting and enhancing content for various users and platforms; turning complex information into engaging and accessible stories, explaining technical issues to non-technical people.
 
-I am happiest when working in that sweet spot where technology, art and storytelling come together.
-
-I am interested in digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I am currently trying to find more time (and energy) to study d3 and Svelte.
+I am happiest when working in that sweet spot where technology, art and storytelling come together. My interests include digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I am also currently trying to find more time (and energy) to study d3 and Svelte.
 
 | [My Repositories](https://github.com/codeswitchstudio?tab=repositories) || [LinkedIn](www.linkedin.com/in/indira-endaya-3a02088) || [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [My Visual Blog](https://codeswitchstudio.com) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) |
 
