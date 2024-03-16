@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 Hi there 👋 
 
-I am a multi-disciplinary digital creative with a background in media, communication and culture.
+I am a multi-disciplinary digital pixel-pusher with a background in media, communication and culture.
 
 I enjoy bringing research to life visually and am experienced in crafting and enhancing content for various users and platforms; turning complex information into engaging and accessible stories, explaining technical issues to non-technical people.
 
