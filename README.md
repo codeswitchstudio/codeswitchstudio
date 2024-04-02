@@ -1,5 +1,3 @@
-
-
 <!--
 **codeswitchstudio/codeswitchstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +28,7 @@ I enjoy bringing research to life visually and am experienced in crafting and en
 
 I am happiest when working in that sweet spot where technology, art and storytelling come together. My interests include digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I am also currently trying to find more time (and energy) to study d3 and Svelte.
 
-| [My Repositories](https://github.com/codeswitchstudio?tab=repositories) || [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [My Visual Blog](https://codeswitchstudio.com) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) |
+| [My Repositories](https://github.com/codeswitchstudio?tab=repositories) || [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) |
 
 
 ### **Jump to:**
