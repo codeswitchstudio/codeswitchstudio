@@ -28,7 +28,7 @@ I enjoy bringing research to life visually and am experienced in crafting and en
 
 I am happiest when working in that sweet spot where technology, art and storytelling come together. My interests include digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I have enjoy working with p5js and recently I've been exploring d3 and Rive.
 
- [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) |
+ [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [Previous Works/Works-in-progress](https://codeswitchstudio.com/indesign/) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) || [Diary of a lifelong learner/midlifey noob/MOOC addict](https://indicodes.substack.com/)
 
 
 ### **Jump to:**
