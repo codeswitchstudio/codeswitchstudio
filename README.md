@@ -56,3 +56,5 @@ I'm Indira Endaya, and am happiest when working in that sweet spot where technol
   - [computational_mama](https://github.com/computational-mama)
   - [Traversy Media](https://www.traversymedia.com/)
   - [Codercoder](https://coder-coder.com/blog/)
+  - [C3](https://bsky.app/profile/did:plc:c3mjesdl57iwayga7t5td4kk)
+  - [VizHub](https://vizhub.com/) 
