@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 
 Hi there 👋 
 
-I'm Indira Endaya, a multi-disciplinary designer with a background in media, communication and culture.
-
-I enjoy bringing research to life visually and am experienced in crafting and enhancing content for various users and platforms; turning complex information into engaging and accessible stories, explaining technical issues to non-technical people.
-
-I am happiest when working in that sweet spot where technology, art and storytelling come together. My interests include digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I enjoy working with p5js and recently I've been exploring d3, Rive, and GSAP.
+I'm Indira Endaya, and am happiest when working in that sweet spot where technology, art and storytelling come together. My interests include digital humanities, data journalism and visualisation, storytelling and drawing with code, indie game UX design, and machine learning. I enjoy working with p5js and recently I've been exploring d3, Rive, and GSAP.
 
  [Instagram/Threads](https://www.instagram.com/indicodeswitch/) || [Previous Works/Works-in-progress](https://codeswitchstudio.com/indesign/) || [My GitHub Skyline 2023](https://skyline.github.com/codeswitchstudio/2023) || [Diary of a lifelong learner/midlifey noob/MOOC addict](https://indicodes.substack.com/)
 
